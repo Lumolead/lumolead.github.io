@@ -1,0 +1,1 @@
+import{Tu as e}from"./icons-CA3rYAv_.js";import{t}from"./_plugin-vue_export-helper-1r9tKl2A.js";var n={name:`Empty`,inheritAttrs:!1};function r(t,n,r,i,a,o){return e(t.$slots,`default`)}var i=t(n,[[`render`,r],[`__file`,`empty.vue`]]);export{i as t};
